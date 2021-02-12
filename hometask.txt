@@ -1,4 +1,5 @@
-Чем отличаются ветки: 
-with nice buttons on his jacket (buttons branch)
+Чем отличаются ветки:
+human.txt:
+  with nice buttons on his jacket (buttons branch)
 
-3 коммита
+2 коммита: task1, task
